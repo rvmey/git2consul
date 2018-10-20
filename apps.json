@@ -1,5 +1,1 @@
-{
-    "russ-service": {
-        "test": "value"
-    }
-}
+{ "Name": "value1", "Name2":"value2" }
